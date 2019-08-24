@@ -1,0 +1,23 @@
+.side-nav {
+	width: 28rem;
+}
+
+.side-nav a {
+	padding-left: unset;
+}
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575px) {
+	.side-nav {
+		width: 25rem;
+	}
+}
+
+/* // Small devices (landscape phones, less than 768px) */
+@media (max-width: 767px) {
+	.side-nav {
+		width: 25rem;
+	}
+}
+.dropdown-content {
+	overflow-x: hidden;
+}

@@ -1,0 +1,11 @@
+/* @import url('https://fonts.googleapis.com/css?family=Anton|Fjalla+One|Heebo|Noto+Sans+KR&display=swap'); */
+
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Alfa+Slab+One|Baloo+Tamma|Francois+One|Patua+One|Paytone+One|Righteous|Russo+One&display=swap');
+html,
+#root {
+	background-color: #ffbb33;
+	/* font-family: 'Heebo', 'Noto Sans KR', sans-serif; */
+	/* font-family: 'Patua One', cursive; */
+	font-family: 'Russo One', sans-serif;
+	font-size: 18px;
+}

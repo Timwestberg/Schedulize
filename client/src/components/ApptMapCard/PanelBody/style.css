@@ -1,0 +1,32 @@
+#fixed-action-btn {
+	position: inherit;
+	bottom: 0;
+	right: unset;
+	z-index: 1;
+}
+.fixed-action-btn ul {
+	right: unset;
+	bottom: unset;
+	top: 0;
+	left: 100px;
+	flex-direction: row;
+}
+
+.fixed-action-btn.active ul {
+	height: unset;
+}
+.side-nav .collapsible a {
+	height: 45px;
+	line-height: 35px;
+}
+
+.btn-floating.btn-lg i {
+	line-height: 1.50;
+}
+
+.md-tabs {
+	margin-bottom: unset;
+}
+.dropdown-content {
+	overflow-x: hidden;
+}

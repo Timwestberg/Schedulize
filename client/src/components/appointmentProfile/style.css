@@ -1,0 +1,9 @@
+.dropdown-content {
+	overflow-x: hidden;
+}
+
+.exitIcon:hover {
+	cursor: pointer;
+	color: red;
+	text-shadow: 5px 5px 6px rgba(150, 150, 150, 1);
+}
